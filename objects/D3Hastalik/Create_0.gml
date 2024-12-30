@@ -1,0 +1,1 @@
+startDialogue("D3Hastalık");

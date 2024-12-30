@@ -1,0 +1,1 @@
+targetRoom = rm3EmreCanOdasi;
