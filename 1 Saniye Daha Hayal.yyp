@@ -132,6 +132,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm1MainMenu","path":"rooms/rm1MainMenu/rm1MainMenu.yy",},},
+    {"roomId":{"name":"rm1_5Credits","path":"rooms/rm1_5Credits/rm1_5Credits.yy",},},
     {"roomId":{"name":"rm2Acilis","path":"rooms/rm2Acilis/rm2Acilis.yy",},},
     {"roomId":{"name":"rm3EmreCanOdasi","path":"rooms/rm3EmreCanOdasi/rm3EmreCanOdasi.yy",},},
     {"roomId":{"name":"rm4Salon","path":"rooms/rm4Salon/rm4Salon.yy",},},
@@ -149,7 +150,6 @@
     {"roomId":{"name":"rmHastaneKoridor","path":"rooms/rmHastaneKoridor/rmHastaneKoridor.yy",},},
     {"roomId":{"name":"rmKosuPisti","path":"rooms/rmKosuPisti/rmKosuPisti.yy",},},
     {"roomId":{"name":"rmTest","path":"rooms/rmTest/rmTest.yy",},},
-    {"roomId":{"name":"rm1_5Credits","path":"rooms/rm1_5Credits/rm1_5Credits.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
