@@ -6,6 +6,6 @@ This game is about an athlete who goes to race to become an international athlet
 
 You can download the game from here!
 
-- [Executable (Windows)](https://github.com/Sapphoic/1-Saniye-Daha-Hayal/releases/download/v-early_alpha/v0.1-early_alpha.1SaniyeDahaHayal.exe)
-- [ZIP Package (Windows)](https://github.com/Sapphoic/1-Saniye-Daha-Hayal/releases/download/v-early_alpha/v0.1-early_alpha.1SaniyeDahaHayal.zip)
-- [Github Releases (Windows)](https://github.com/Sapphoic/1-Saniye-Daha-Hayal/releases)
+- [Executable (Windows)](https://github.com/SubFabula/1-Saniye-Daha-Hayal/releases/download/v-early_alpha/v0.1_1SaniyeDahaHayal.exe)
+- [ZIP Package (Windows)](https://github.com/SubFabula/1-Saniye-Daha-Hayal/releases/download/v-early_alpha/v0.1_1SaniyeDahaHayal.zip)
+- [Github Releases (Windows)](https://github.com/SubFabula/1-Saniye-Daha-Hayal/releases)
